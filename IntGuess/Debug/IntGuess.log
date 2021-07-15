@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\micah\Desktop\College Stuff\Comp3\IntGuess\main.cpp(68,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IntGuess.vcxproj -> C:\Users\micah\Desktop\College Stuff\Comp3\IntGuess\Debug\IntGuess.exe
